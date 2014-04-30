@@ -10,6 +10,6 @@ def doIT(num)
   end
 end
 
-[1,2,3,5,7,15].each do |x|
+[1,2,3,4,5,6,10,15].each do |x|
   puts "#{x}  #{doIT(x)}"
 end
