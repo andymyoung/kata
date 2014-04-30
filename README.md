@@ -1,4 +1,4 @@
 kata
 ====
 
-Coding Kata
+Coding Kata... as in, http://codekata.com/
